@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd9661ee098242fabfac0395aff7d51, type: 3}
+  m_Name: card1015
+  m_EditorClassIdentifier: 
+  CardId: card1015
+  CardName: "\u4E34\u65F6\u51C6\u5907"
+  CardDesp: "\u7F8E\u989C\u51C6\u5907\u8D77\u6765"
+  CatdImageName: Image_Duguai
+  CardEffectDesp: "\u6D88\u8017\u6240\u6709\u4F53\u529B\uFF0C\u83B7\u5F97x\u5F20\u884C\u52A8"
+  Picture: {fileID: 0}
+  CardType: 1
+  Tags: []
+  cost: -1
+  UseOnDiscard: 0
+  HasTurnEffect: 0
+  OverDueTurn: 0
+  IsConsume: 0
+  UseTime: 1
+  ModelCard: 
+  StatusBonusNum: 0
+  StatusBonusType: 0
+  SkillBonusType: 0
+  SkillBonusNum: 0
+  BaseSkillId: 
+  UseConditions:
+  - EMode: 0
+    effectType: 25
+    isNegEffect: 0
+    Possibility: 0
+    turnEffect: 
+    effectString: 
+    isAddBuff: 0
+    buffInfo:
+      BuffType: 0
+      BuffLevel: 0
+      AffectCard: 0
+      filterString: 
+      TurnLast: 0
+      CardNum: 0
+      SecLast: 0
+    BranchType: 
+    BranchEffectStrings: []
+  Effects:
+  - EMode: 0
+    effectType: 16
+    isNegEffect: 0
+    Possibility: 0
+    turnEffect: 
+    effectString: Dual,1
+    isAddBuff: 0
+    buffInfo:
+      BuffType: 0
+      BuffLevel: 0
+      AffectCard: 0
+      filterString: 
+      TurnLast: 0
+      CardNum: 0
+      SecLast: 0
+    BranchType: 
+    BranchEffectStrings: []
+  TurnEffects: []

@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd9661ee098242fabfac0395aff7d51, type: 3}
+  m_Name: card1017
+  m_EditorClassIdentifier: 
+  CardId: card1017
+  CardName: "\u7A7A\u6C14\u62CC\u996D"
+  CardDesp: "\u4E3B\u64AD\u5DF2\u7ECF\u8DB3\u591F\u60E8\u4E86\uFF0C\u54CE\u4EBA\u603B\u662F\u8981\u6070\u996D\u7684\u5427"
+  CardEffectDesp: "\u83B7\u5F97120\u70B9\u70ED\u5EA6\uFF0C\u5355\u573A\u83B7\u5F97\u989D\u5916\u7C89\u4E1D\u3002\u8D85\u8FC73\u6B21\u65F6\u53EA\u83B7\u5F97\u70ED\u5EA6"
+  Picture: {fileID: 21300000, guid: 794248010378444e39d5d60385dc1d04, type: 3}
+  CardType: 1
+  Tags: []
+  cost: 3
+  IsConsume: 0
+  UseOnDiscard: 0
+  HasTurnEffect: 0
+  OverDueTurn: 0
+  UseTime: 0
+  ModelCard: 
+  StatusBonusNum: 0
+  StatusBonusType: 0
+  SkillBonusType: 0
+  SkillBonusNum: 0
+  UseConditions: []
+  Effects:
+  - EMode: 0
+    effectType: 7
+    isNegEffect: 0
+    Possibility: 0
+    turnEffect: 
+    effectString: 120
+    isAddBuff: 0
+    buffInfo:
+      BuffType: 0
+      BuffLevel: 0
+      AffectCard: 0
+      filterString: 
+      TurnLast: 0
+      CardNum: 0
+      SecLast: 0
+    BranchType: 
+    BranchEffectStrings: []
+  - EMode: 0
+    effectType: 26
+    isNegEffect: 0
+    Possibility: 0
+    turnEffect: 
+    effectString: 3
+    isAddBuff: 0
+    buffInfo:
+      BuffType: 0
+      BuffLevel: 0
+      AffectCard: 0
+      filterString: 
+      TurnLast: 0
+      CardNum: 0
+      SecLast: 0
+    BranchType: 
+    BranchEffectStrings: []
+  - EMode: 0
+    effectType: 23
+    isNegEffect: 0
+    Possibility: 0
+    turnEffect: 
+    effectString: 50
+    isAddBuff: 0
+    buffInfo:
+      BuffType: 0
+      BuffLevel: 0
+      AffectCard: 0
+      filterString: 
+      TurnLast: 0
+      CardNum: 0
+      SecLast: 0
+    BranchType: 
+    BranchEffectStrings: []
+  TurnEffects: []

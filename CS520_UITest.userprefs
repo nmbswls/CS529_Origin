@@ -1,0 +1,38 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_CS/Modules/Main/CoreManager.cs">
+    <Files>
+      <File FileName="Assets/_CS/Framework/PointerEventListener/ClickableManager2D.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CS/Framework/GameMain/GameMain.cs" Line="26" Column="2" />
+      <File FileName="Assets/_CS/Modules/UIMgr/UIMgr.cs" Line="51" Column="51" />
+      <File FileName="Assets/_CS/Modules/UIMgr/UIBaseView.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CS/ScriptableObjs/RoleStoryAsset.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CS/Modules/UIMgr/UIBaseCtrl.cs" Line="20" Column="25" />
+      <File FileName="Assets/_CS/Framework/ModuleMgr/ModuleMgr.cs" Line="40" Column="1" />
+      <File FileName="Assets/_CS/Framework/ModuleMgr/IModule.cs" Line="21" Column="11" />
+      <File FileName="Assets/_CS/Framework/ModuleMgr/ModuleBase.cs" Line="31" Column="26" />
+      <File FileName="Assets/_CS/Framework/GameMain/IGameMain.cs" Line="14" Column="11" />
+      <File FileName="Assets/_CS/Modules/UIMgr/UIBaseModel.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CS/Modules/CardDeck/CardDeckModule.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CS/ScriptableObjs/CardAsset.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CS/Modules/CardDeck/ICardDeckModule.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CS/Framework/PointerEventListener/ClickEventListerner.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CS/Framework/PointerEventListener/DragEventListener.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CS/GameMode/GameModeBase.cs" Line="11" Column="10" />
+      <File FileName="Assets/_CS/GameMode/MainGameMode.cs" Line="40" Column="2" />
+      <File FileName="Assets/_CS/Modules/Main/CoreManager.cs" Line="17" Column="25" />
+      <File FileName="Assets/_CS/GamePlay/Travel/TravelGameMode.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CS/UISystem/Menu/HomeMenuCtrl.cs" Line="13" Column="26" />
+      <File FileName="Assets/_CS/UISystem/StartGame/AdjustInitCtrl.cs" Line="164" Column="10" />
+      <File FileName="Assets/_CS/Modules/UIMgr/IUIMgr.cs" Line="13" Column="24" />
+      <File FileName="Assets/_CS/Modules/Dialog/DialogModule.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CS/UISystem/StartGame/ChooseStoryLineCtrl.cs" Line="70" Column="56" />
+      <File FileName="Assets/_CS/Modules/Event/ISpeEventMgr.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CS/Modules/Event/SpeEventMgr.cs" Line="7" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
